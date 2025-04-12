@@ -8,4 +8,5 @@
 Python | pandas | matplotlib | scikit-learn | BeautifulSoup | PyAutoGUI
 
 ## 📫 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/natalieavahuang/)
+- [LinkedIn](https://www.linkedin.com/in/natalieavahuang/)
+- [Email](mailto:nhuang@student.uiwtx.edu)
