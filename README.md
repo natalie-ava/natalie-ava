@@ -1,5 +1,5 @@
 # 👋🏼 Hi, I'm Natalie
-- 🦋 [**Portfolio**](https://github.com/natalie-ava/portfolio)
+- 💌 [**Portfolio**](https://github.com/natalie-ava/portfolio)
 - 🎓 Data Science student at UIW (minoring in Art History)
 - 🎨 Exploring emotion, design, and storytelling through data
 - 💻 Current Project: [ArtEmotions](https://github.com/natalie-ava/ArtEmotions)
